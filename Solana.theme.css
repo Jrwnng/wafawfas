@@ -78,10 +78,10 @@
     --enable-floating-transparency: 1;
 
     /* font */
-    --custom-font-display: "Monocraft";
-    --custom-font-regular: "Monocraft";
-    --custom-font-primary: "Monocraft";
-    --custom-font-code: "Monocraft";
+    --custom-font-display: "";
+    --custom-font-regular: "";
+    --custom-font-primary: "";
+    --custom-font-code: "";
 
     /* other */
     --enable-blur: 1;
